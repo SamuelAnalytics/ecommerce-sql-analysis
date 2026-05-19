@@ -32,7 +32,7 @@ ecommerce-sql-analysis/
 ├── README.md
 ├── analysis_queries.sql
 └── images/
-
+```
 
 ## Query Examples
 
