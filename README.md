@@ -33,7 +33,6 @@ ecommerce-sql-analysis/
 ├── analysis_queries.sql
 └── images/
 
-```markdown
 ## Query Examples
 
 ### Top Customers by Revenue
@@ -49,4 +48,4 @@ ecommerce-sql-analysis/
 ### Monthly Revenue Analysis
 ![Top Customers](images/receita_mensal.png)
 
-```
+
