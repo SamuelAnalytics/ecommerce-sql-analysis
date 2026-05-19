@@ -48,3 +48,5 @@ ecommerce-sql-analysis/
 
 ### Monthly Revenue Analysis
 ![Top Customers](images/receita_mensal.png)
+
+```
