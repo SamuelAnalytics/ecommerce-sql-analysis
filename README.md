@@ -33,6 +33,7 @@ ecommerce-sql-analysis/
 ├── analysis_queries.sql
 └── images/
 
+
 ## Query Examples
 
 ### Top Customers by Revenue
@@ -43,7 +44,7 @@ ecommerce-sql-analysis/
 ![Top Customers](images/total_revenue_and_sold_products.png)
 
 ### Revenue By Category
-![Top Customers](/images/revenue_category.png)
+![Top Customers](images/revenue_category.png)
 
 ### Monthly Revenue Analysis
 ![Top Customers](images/receita_mensal.png)
