@@ -59,12 +59,3 @@ ecommerce-sql-analysis/
 ![Top Customers](images/receita_mensal.png)
 
 
-## SQL Concepts Used
-
-- JOIN
-- LEFT JOIN
-- GROUP BY
-- ORDER BY
-- Aggregations
-- Subqueries
-- DATE_TRUNC
