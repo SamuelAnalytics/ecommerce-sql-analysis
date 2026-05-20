@@ -1,13 +1,22 @@
-# E-commerce SQL Analysis Project
+# PostgreSQL E-commerce SQL Analysis Project
 
 ## Objective
-Analyze e-commerce data using PostgreSQL to generate business insights.
+Analyze e-commerce sales data using PostgreSQL and SQL queries to generate business insights and revenue.
 
 ## Technologies Used
 - PostgreSQL
 - SQL
 - VSCode
 - pgAdmin
+
+## SQL Skills Demonstrated
+
+- JOINs
+- GROUP BY
+- Aggregate Functions
+- Revenue Analysis
+- Data Filtering
+- Business Insights
 
 ## Database Tables
 - customers
